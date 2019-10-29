@@ -1,0 +1,56 @@
+body.intro {
+    text-align: center;
+    background-color: oldlace;
+}
+
+.hobbiesB{
+    background-color: azure;
+    padding-left: 40px;
+}
+
+header {
+    font-size: h4;
+}
+
+#otherC {
+    color: red;
+}
+
+#foodPara{
+    padding-left: 0px;
+    margin-right: 1100px;
+}
+
+.foodDiv{
+    padding-left: 40px;
+}
+
+.somePics{
+    width: 30%;
+    margin: 0 auto;
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+ol {
+    display: block;
+    list-style-type: decimal;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+    font: 20px "Fantasy", san-serif;
+}
+
+#shapeRectangle {
+    background-color: black;
+    height: 10px;
+    width: 600px;
+    margin: auto;
+}
+
+footer{
+    margin: 2px;
+}
+
